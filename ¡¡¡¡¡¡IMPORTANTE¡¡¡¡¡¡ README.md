@@ -1,0 +1,3 @@
+  Esto es un programa para detectar puertos habiertos mediante una ip es facil de usar todo para entenderlo esta en el codigo..........
+
+" ADVERTENCIA NO ME HAGO RESPONSABLE SOBRE SU USO "
